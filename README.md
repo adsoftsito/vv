@@ -21,7 +21,9 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Crear backlog
 - Crear Issues divididos en 3 releases.
 
-# Tareas parcial 1 - Entrenamiento en React/Nodejs/Graphql
+# Tareas parcial 1 - Entrenamiento en React/Python/Graphql
+- Curso [python/graphene](https://www.howtographql.com/graphql-python/0-introduction/)
+- Revisar [Django Data-types](https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types)
 - Realizar el laboratorio pet name generator: https://platform.openai.com/docs/quickstart/closing
 - Realizar curso basico de Front/React: https://www.apollographql.com/tutorials/lift-off-part1
 - Realizar curso Resolvers : https://www.apollographql.com/tutorials/lift-off-part2
