@@ -1,7 +1,8 @@
 # vv
+[lista de clase]()
 
 Proyecto:
-[lista de clase]()
+
 
 Desarrollar una solución web para que los empleados puedan tener acceso mediante OpenAI a la informacion y/o apoyo que requieran de manera inmediata.
 
