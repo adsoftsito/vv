@@ -16,7 +16,7 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 
 # Actividades del parcial 1
 - Investigar sobre los de servicios de la API: https://platform.openai.com/docs/api-reference/introduction
-- Crear repositorio en Github, agregar a integrantes
+- Crear repositorio en Github, branchs.
 - Crear el proyecto Kanban para la administracion del proyecto.
 - Crear backlog
 - Crear Issues divididos en 3 releases.
