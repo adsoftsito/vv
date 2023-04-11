@@ -25,6 +25,7 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
 - Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
 - Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+- Deploy [API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit?usp=sharing)
 - Curso [python/graphene](https://www.howtographql.com/graphql-python/0-introduction/)
 - Revisar [Django Data-types](https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types)
 - Realizar el laboratorio pet name generator: https://platform.openai.com/docs/quickstart/closing
