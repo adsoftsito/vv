@@ -21,6 +21,16 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Crear backlog
 - Crear Issues divididos en 3 releases.
 
+# Rubrica evaluacion del parcial 1, Fecha entrega: 2/May/2023
+
+1. Github project actualizado en las 3 formas: Tabular, Kanban y Gantt ->10 pts
+2. Mapa de branchs, revision de issues en repositorio de Backend -> 10 pts
+3. Mapa de branchs, revision de issues en reposiotorio de Fronted -> 10 pts
+4. Actualizacion de Landing Page y Estilos de Frontend de acuerdo al tema elegido -> 10 pts
+5. Deploy de Backend con n replicas (branch release solamente) en Cloud Okteto -> 10 pts
+6. Deploy de Frontend con n replicas (branch release solamente) en Cloud Okteto -> 10 pts
+7. Update en localhost durante la revision del proyecto -> 40 pts
+
 # Tareas parcial 1 - Entrenamiento en React/Python/Graphql
 - Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
 - Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
