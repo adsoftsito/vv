@@ -4,7 +4,7 @@ class ServiceDavinci003 {
 
   async getDaVinci(data) {
     const configuration = new Configuration({
-        apiKey: "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",
+        apiKey: "your-key-here",
       });
     const openai = new OpenAIApi(configuration);
     console.log(configuration);
