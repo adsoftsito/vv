@@ -40,4 +40,4 @@ Desarrollar una solución web para que los empleados puedan tener acceso mediant
 - Revisar [Django Data-types](https://docs.djangoproject.com/en/4.1/ref/models/fields/#field-types)
 - Realizar el laboratorio pet name generator: https://platform.openai.com/docs/quickstart/closing
 - Realizar curso basico de Front/React: https://www.apollographql.com/tutorials/lift-off-part1
-- Openapi [API](https://docs.google.com/presentation/d/1PwUGIBFif4AKKFunBthCn9JFc3u15dG1_LSWS14ceSk/edit?usp=sharing) 
+- Openai [API](https://docs.google.com/presentation/d/1PwUGIBFif4AKKFunBthCn9JFc3u15dG1_LSWS14ceSk/edit?usp=sharing) 
